@@ -1,0 +1,10 @@
+[
+    {
+        "name" :"Device 1",
+        "ip":"10.24.140.216",
+        "user":"admin",
+        "password":"brocade",
+        "subnet_id":[
+            "ALL"]
+    }
+]
