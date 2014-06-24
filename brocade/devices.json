@@ -1,0 +1,12 @@
+#File containing the Brocade Load Balancer Devices
+[
+    {
+        "name" :"<Device Name>",
+        "ip":"<Device IP Address>"
+        "user":"<User Name>",
+        "password":"<Password>",
+        "subnet_id":[
+            "<subnet-id-1>",
+            "<subnet-id-2>"]
+    }
+]
