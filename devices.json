@@ -1,7 +1,7 @@
 [
     {
-        "name" :"Device 1",
-        "ip":"10.24.140.216",
+        "name" :"Brocade vADX 1",
+        "ip":"172.24.1.196",
         "user":"admin",
         "password":"brocade",
         "subnet_id":[
